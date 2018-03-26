@@ -1,6 +1,7 @@
 package com.mslc;
 
-public class HelloWorld {
+public class HelloWorld 
+{
 	 private String name = "";
 
 	   public String getName() 
